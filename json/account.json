@@ -1,16 +1,16 @@
 [
 	{
-		"domain": "https://portal.smaden.com/member/",
+		"url": "https://portal.smaden.com/member/",
 		"id": "wanze5",
 		"pass": "Daimayuu_3"
 	},
 	{
-		"domain": "https://members.tokyo-gas.co.jp/mytokyogas/mtgmenu.aspx",
+		"url": "https://members.tokyo-gas.co.jp/mytokyogas/mtgmenu.aspx",
 		"id": "spdc35z9@gmail.com",
 		"pass": "Daimayuu_3"
 	},
 	{
-		"domain": "https://suidonet.waterworks.metro.tokyo.jp/inet-service/",
+		"url": "https://suidonet.waterworks.metro.tokyo.jp/inet-service/",
 		"id": "7p8tewps",
 		"pass": "daimayuu3"
 	}
