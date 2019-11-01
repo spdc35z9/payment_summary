@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # coding: utf-8
-=======
-# coding: shift_jis
->>>>>>> fb059716a8c240ce15c6ce135a249be77fb3b230
 import json
 from domains.getSuidoNet import getSuidoNet
 
@@ -26,10 +22,5 @@ def paymentSummary():
             target_date,receipt_amount = getSuidoNet(url,id,password)
             print('対象年月:{}'.format(target_date))
             print('領収金額:{}'.format(receipt_amount))
-
-<<<<<<< HEAD
-
-=======
->>>>>>> fb059716a8c240ce15c6ce135a249be77fb3b230
 
 paymentSummary()
