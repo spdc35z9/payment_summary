@@ -13,7 +13,13 @@
 	},
 	{
 		"domain": "suidonet",
-		"url": "https://suidonet.waterworks.metro.tokyo.jp/inet-service/",
+		"url": "https://suidonet.waterworks.metro.tokyo.jp/inet-service/members/login",
+		"id": "7p8tewps",
+		"pass": "daimayuu3"
+	},
+	{
+		"domain": "test",
+		"url": "https://suidonet.waterworks.metro.tokyo.jp/inet-service/members/login",
 		"id": "7p8tewps",
 		"pass": "daimayuu3"
 	}
